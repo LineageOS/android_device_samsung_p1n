@@ -28,4 +28,4 @@ TARGET_KERNEL_SOURCE := kernel/samsung/p1
 TARGET_KERNEL_CONFIG := cyanogenmod_$(PRODUCT_DEVICE)_defconfig
 
 # asserts
-TARGET_OTA_ASSERT_DEVICE := galaxytab,$(PRODUCT_MODEL)
+TARGET_OTA_ASSERT_DEVICE := galaxytab,GT-P1000,$(PRODUCT_MODEL)
