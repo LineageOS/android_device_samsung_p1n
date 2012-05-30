@@ -21,7 +21,7 @@ $(call inherit-product, device/samsung/p1/p1.mk)
 
 PRODUCT_NAME := cm_p1n
 PRODUCT_DEVICE := p1n
-PRODUCT_MODEL := GT-P1000N
+PRODUCT_MODEL := GT-P1000
 
 # kernel
 TARGET_KERNEL_SOURCE := kernel/samsung/p1
