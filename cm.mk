@@ -13,7 +13,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 # Inherit device configuration
 # --------------------------------------------------------------------------------
 
-$(call inherit-product, device/samsung/p1/p1.mk)
+$(call inherit-product, device/samsung/p1/full_p1n.mk)
 
 # --------------------------------------------------------------------------------
 # product specific settings
